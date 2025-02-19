@@ -68,8 +68,11 @@ This project contains **three main Java files**:
 After running the program, you'll see a prompt where you can **enter commands**:
 
 ```
-Welcome to the Restaurant Seating System!
-Enter a command (arrive X / leave Y / exit):
+Options:
+1. Group arrives
+2. Group leaves the queue
+3. Display restaurant status
+4. Exit
 ```
 
 
